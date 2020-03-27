@@ -1,0 +1,16 @@
+p.intro {
+  width: 50%;
+  color: aquamarine;
+  font-style: italic;
+  font-weight: bold;
+}
+.flashy{
+  width: 75%;
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+}
+body {
+  align-content: center;
+  background-color: plum;
+}
